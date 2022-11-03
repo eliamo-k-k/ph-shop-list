@@ -1,174 +1,174 @@
 {
-  "0357847811": {
-    "shortName": "PH本社",
-    "fullName": "ピンクハス本社"
-  },
-  "0112194138": {
-    "shortName": "札幌店",
-    "fullName": "PINKHOUSE　札幌路面店"
-  },
-  "0196268111": {
-    "shortName": "盛岡店",
-    "fullName": "PINKHOUSE　盛岡路面店"
-  },
-  "0222257735": {
-    "shortName": "仙台店",
-    "fullName": "PINKHOUSE　仙台路面店"
-  },
-  "0236163586": {
-    "shortName": "山形店",
-    "fullName": "PINKHOUSE　山形路面店"
-  },
-  "0246413131": {
-    "shortName": "いわき店",
-    "fullName": "PINKHOUSE　いわき路面店"
-  },
-  "0292318471": {
-    "shortName": "水戸京成",
-    "fullName": "PINKHOUSE　水戸京成百貨店"
-  },
-  "0284441139": {
-    "shortName": "足利店",
-    "fullName": "PINKHOUSE　足利路面店"
-  },
-  "0286234410": {
-    "shortName": "宇都宮店",
-    "fullName": "PINKHOUSE　宇都宮FKD店"
-  },
-  "0487881360": {
-    "shortName": "大宮店",
-    "fullName": "PINKHOUSE　大宮そごう店"
-  },
-  "0367090920": {
-    "shortName": "池袋店",
-    "fullName": "PINKHOUSE　池袋西武店"
-  },
-  "0338371650": {
-    "shortName": "上野店",
-    "fullName": "PINKHOUSE　上野松坂屋店"
-  },
-  "0359097303": {
-    "shortName": "新宿店",
-    "fullName": "PINKHOUSE　新宿京王店"
-  },
-  "0362806728": {
-    "shortName": "銀座店",
-    "fullName": "PINKHOUSE　東急プラザ銀座店"
-  },
-  "0452225400": {
-    "shortName": "横浜店",
-    "fullName": "PINKHOUSE　横浜ランドマークプラザ店"
-  },
-  "0459032236": {
-    "shortName": "たまプラ店",
-    "fullName": "PINKHOUSE　たまプラーザ東急店"
-  },
-  "0552335818": {
-    "shortName": "甲府岡島店",
-    "fullName": "PINKHOUSE　甲府岡島店店"
-  },
-  "0262236004": {
-    "shortName": "長野店",
-    "fullName": "PINKHOUSE　長野路面店"
-  },
-  "0764225215": {
-    "shortName": "富山店",
-    "fullName": "PINKHOUSE　富山路面店"
-  },
-  "0766259037": {
-    "shortName": "高岡店",
-    "fullName": "PINKHOUSE　高岡路面店"
-  },
-  "0762135110": {
-    "shortName": "金沢店",
-    "fullName": "PINKHOUSE　金沢エムザ店"
-  },
-  "0564573807": {
-    "shortName": "岡崎店",
-    "fullName": "PINKHOUSE　岡崎路面店"
-  },
-  "0522128255": {
-    "shortName": "名古松店",
-    "fullName": "PINKHOUSE　名古屋松坂屋店"
-  },
-  "0525889510": {
-    "shortName": "名鉄店",
-    "fullName": "PINKHOUSE　名鉄百貨店"
-  },
-  "0532576055": {
-    "shortName": "豊橋店",
-    "fullName": "PINKHOUSE　豊橋路面店"
-  },
-  "0775613664": {
-    "shortName": "草津店",
-    "fullName": "PINKHOUSE　草津近鉄店"
-  },
-  "0663452364": {
-    "shortName": "阪神店",
-    "fullName": "PINKHOUSE　阪神百貨店"
-  },
-  "0722245928": {
-    "shortName": "堺店",
-    "fullName": "PINKHOUSE　堺高島屋店"
-  },
-  "0782411772": {
-    "shortName": "神戸店",
-    "fullName": "PINKHOUSE　神戸阪急店"
-  },
-  "0792849701": {
-    "shortName": "姫路店",
-    "fullName": "PINKHOUSE　姫路山陽百貨店"
-  },
-  "0859221231": {
-    "shortName": "米子ＭＡＩ店",
-    "fullName": "PINKHOUSE　米子ＭＡＩ店"
-  },
-  "0825458100": {
-    "shortName": "広島店",
-    "fullName": "PINKHOUSE　広島三越店"
-  },
-  "0878255331": {
-    "shortName": "高松店",
-    "fullName": "PINKHOUSE　高松路面店"
-  },
-  "0899336568": {
-    "shortName": "松山いよてつ",
-    "fullName": "PINKHOUSE　松山いよてつ高島屋店"
-  },
-  "0922632723": {
-    "shortName": "博多店",
-    "fullName": "PINKHOUSE　博多キャナルシティ店"
-  },
-  "0939671568": {
-    "shortName": "小倉店",
-    "fullName": "PINKHOUSE　小倉井筒屋店"
-  },
-  "0963222013": {
-    "shortName": "熊本店",
-    "fullName": "PINKHOUSE　熊本鶴屋本館店"
-  },
-  "0975378556": {
-    "shortName": "大分店",
-    "fullName": "PINKHOUSE　大分トキハ店"
-  },
-  "0985323029": {
-    "shortName": "宮崎店",
-    "fullName": "PINKHOUSE　宮崎山形屋店"
-  },
-  "0992268728": {
-    "shortName": "鹿児島店",
-    "fullName": "PINKHOUSE　鹿児島山形屋店"
-  },
-  "0989306260": {
-    "shortName": "沖縄プラズハウス店",
-    "fullName": "PINKHOUSE　沖縄プラズハウス店"
-  },
-  "0988627718": {
-    "shortName": "沖縄リウボウ店",
-    "fullName": "PINKHOUSE　沖縄リウボウ店"
-  },
-  "0368805820": {
-    "shortName": "タオバオ店",
-    "fullName": "PINKHOUSE　タオバオ店"
-  }
+	"0357847811": {
+		"shortName": "PH本社",
+		"fullName": "ピンクハス本社"
+	},
+	"0112194138": {
+		"shortName": "札幌路面店",
+		"fullName": "PINKHOUSE　札幌路面店"
+	},
+	"0196268111": {
+		"shortName": "盛岡路面店",
+		"fullName": "PINKHOUSE　盛岡路面店"
+	},
+	"0222257735": {
+		"shortName": "仙台路面店",
+		"fullName": "PINKHOUSE　仙台路面店"
+	},
+	"0236163586": {
+		"shortName": "山形路面店",
+		"fullName": "PINKHOUSE　山形路面店"
+	},
+	"0246413131": {
+		"shortName": "いわき路面店",
+		"fullName": "PINKHOUSE　いわき路面店"
+	},
+	"0292318471": {
+		"shortName": "水戸京成百貨店",
+		"fullName": "PINKHOUSE　水戸京成百貨店"
+	},
+	"0284441139": {
+		"shortName": "足利路面店",
+		"fullName": "PINKHOUSE　足利路面店"
+	},
+	"0286234410": {
+		"shortName": "宇都宮FKD店",
+		"fullName": "PINKHOUSE　宇都宮FKD店"
+	},
+	"0487881360": {
+		"shortName": "大宮SOGO店",
+		"fullName": "PINKHOUSE　大宮そごう店"
+	},
+	"0367090920": {
+		"shortName": "池袋西武店",
+		"fullName": "PINKHOUSE　池袋西武店"
+	},
+	"0338371650": {
+		"shortName": "上野松坂店",
+		"fullName": "PINKHOUSE　上野松坂屋店"
+	},
+	"0359097303": {
+		"shortName": "新宿京王店",
+		"fullName": "PINKHOUSE　新宿京王店"
+	},
+	"0362806728": {
+		"shortName": "銀座プラザ店",
+		"fullName": "PINKHOUSE　東急プラザ銀座店"
+	},
+	"0452225400": {
+		"shortName": "横浜ランドマーク店",
+		"fullName": "PINKHOUSE　横浜ランドマークプラザ店"
+	},
+	"0459032236": {
+		"shortName": "たまプラ店",
+		"fullName": "PINKHOUSE　たまプラーザ東急店"
+	},
+	"0552335818": {
+		"shortName": "甲府岡島店",
+		"fullName": "PINKHOUSE　甲府岡島店店"
+	},
+	"0262236004": {
+		"shortName": "長野路面店",
+		"fullName": "PINKHOUSE　長野路面店"
+	},
+	"0764225215": {
+		"shortName": "富山路面店",
+		"fullName": "PINKHOUSE　富山路面店"
+	},
+	"0766259037": {
+		"shortName": "高岡路面店",
+		"fullName": "PINKHOUSE　高岡路面店"
+	},
+	"0762135110": {
+		"shortName": "金沢エムザ店",
+		"fullName": "PINKHOUSE　金沢エムザ店"
+	},
+	"0564573807": {
+		"shortName": "岡崎路面店",
+		"fullName": "PINKHOUSE　岡崎路面店"
+	},
+	"0522128255": {
+		"shortName": "名古松松坂店",
+		"fullName": "PINKHOUSE　名古屋松坂屋店"
+	},
+	"0525889510": {
+		"shortName": "名鉄百貨店",
+		"fullName": "PINKHOUSE　名鉄百貨店"
+	},
+	"0532576055": {
+		"shortName": "豊橋路面店",
+		"fullName": "PINKHOUSE　豊橋路面店"
+	},
+	"0775613664": {
+		"shortName": "草津近鉄店",
+		"fullName": "PINKHOUSE　草津近鉄店"
+	},
+	"0663452364": {
+		"shortName": "阪神百貨店",
+		"fullName": "PINKHOUSE　阪神百貨店"
+	},
+	"0722245928": {
+		"shortName": "堺高島屋店",
+		"fullName": "PINKHOUSE　堺高島屋店"
+	},
+	"0782411772": {
+		"shortName": "神戸阪急店",
+		"fullName": "PINKHOUSE　神戸阪急店"
+	},
+	"0792849701": {
+		"shortName": "姫路山陽店",
+		"fullName": "PINKHOUSE　姫路山陽百貨店"
+	},
+	"0859221231": {
+		"shortName": "米子ＭＡＩ店",
+		"fullName": "PINKHOUSE　米子ＭＡＩ店"
+	},
+	"0825458100": {
+		"shortName": "広島三越店",
+		"fullName": "PINKHOUSE　広島三越店"
+	},
+	"0878255331": {
+		"shortName": "高松路面店",
+		"fullName": "PINKHOUSE　高松路面店"
+	},
+	"0899336568": {
+		"shortName": "松山いよてつ",
+		"fullName": "PINKHOUSE　松山いよてつ高島屋店"
+	},
+	"0922632723": {
+		"shortName": "博多店",
+		"fullName": "PINKHOUSE　博多キャナルシティ店"
+	},
+	"0939671568": {
+		"shortName": "小倉井筒店",
+		"fullName": "PINKHOUSE　小倉井筒屋店"
+	},
+	"0963222013": {
+		"shortName": "熊本鶴屋店",
+		"fullName": "PINKHOUSE　熊本鶴屋本館店"
+	},
+	"0975378556": {
+		"shortName": "大分トキは店",
+		"fullName": "PINKHOUSE　大分トキハ店"
+	},
+	"0985323029": {
+		"shortName": "宮崎山形屋店",
+		"fullName": "PINKHOUSE　宮崎山形屋店"
+	},
+	"0992268728": {
+		"shortName": "鹿児島山形屋店",
+		"fullName": "PINKHOUSE　鹿児島山形屋店"
+	},
+	"0989306260": {
+		"shortName": "沖縄プラズハウス店",
+		"fullName": "PINKHOUSE　沖縄プラズハウス店"
+	},
+	"0988627718": {
+		"shortName": "沖縄リウボウ店",
+		"fullName": "PINKHOUSE　沖縄リウボウ店"
+	},
+	"0368805820": {
+		"shortName": "タオバオ店",
+		"fullName": "PINKHOUSE　タオバオ店"
+	}
 }
