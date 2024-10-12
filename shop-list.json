@@ -1,177 +1,221 @@
 {
-  "0357847811": {
+  "ph_head": {
+    "faxNumber": "0357847811",
     "shortName": "PH本社",
     "fullName": "ピンクハス本社"
   },
-  "0112194138": {
+  "sapporo": {
+    "faxNumber": "0112194138",
     "shortName": "さっぽろ東急店",
-    "fullName": "PINKHOUSE　さっぽろ東急店"
+    "fullName": "PINKHOUSE　札幌東急店"
   },
-  "0196268111": {
+  "morioka": {
+    "faxNumber": "0196268111",
     "shortName": "盛岡路面店",
     "fullName": "PINKHOUSE　盛岡路面店"
   },
-  "0222257735": {
+  "sendai": {
+    "faxNumber": "0222257735",
     "shortName": "仙台藤崎店",
     "fullName": "PINKHOUSE　仙台藤崎店"
   },
-  "0236163586": {
+  "yamagata": {
+    "faxNumber": "0236163586",
     "shortName": "山形路面店",
     "fullName": "PINKHOUSE　山形路面店"
   },
-  "0246413131": {
+  "iwaki": {
+    "faxNumber": "0246413131",
     "shortName": "いわき路面店",
     "fullName": "PINKHOUSE　いわき路面店"
   },
-  "0292318471": {
+  "mito": {
+    "faxNumber": "0292318471",
     "shortName": "水戸京成百貨店",
     "fullName": "PINKHOUSE　水戸京成百貨店"
   },
-  "0284441139": {
+  "ashigara": {
+    "faxNumber": "0284441139",
     "shortName": "足利路面店",
     "fullName": "PINKHOUSE　足利路面店"
   },
-  "0286234410": {
+  "utsunomiya": {
+    "faxNumber": "0286234410",
     "shortName": "宇都宮FKD店",
     "fullName": "PINKHOUSE　宇都宮FKD店"
   },
-  "0487881360": {
+  "oomiya": {
+    "faxNumber": "0487881360",
     "shortName": "大宮SOGO店",
     "fullName": "PINKHOUSE　大宮そごう店"
   },
-  "0369125331": {
+  "ikebukuro": {
+    "faxNumber": "0369125331",
     "shortName": "東武店",
     "fullName": "PINKHOUSE　東武店"
   },
-  "0338371660": {
+  "ueno": {
+    "faxNumber": "0338371660",
     "shortName": "上野松坂店",
     "fullName": "PINKHOUSE　上野松坂屋店"
   },
-  "0359097303": {
+  "shinjuku": {
+    "faxNumber": "0359097303",
     "shortName": "新宿京王店",
     "fullName": "PINKHOUSE　新宿京王店"
   },
-  "0362806728": {
+  "ginza": {
+    "faxNumber": "0362806728",
     "shortName": "銀座プラザ店",
     "fullName": "PINKHOUSE　東急プラザ銀座店"
   },
-  "0364554107": {
-    "shortName": "表参道店",
-    "fullName": "PINKHOUSE　表参道店"
+  "meguro": {
+    "faxNumber": "0364554107",
+    "shortName": "目黒店",
+    "fullName": "PINKHOUSE　目黒店"
   },
-  "0452225400": {
+  "yokohama": {
+    "faxNumber": "0452225400",
     "shortName": "横浜ランドマーク店",
     "fullName": "PINKHOUSE　横浜ランドマークプラザ店"
   },
-  "0459032236": {
+  "tamaplaza": {
+    "faxNumber": "0459032236",
     "shortName": "たまプラ店",
     "fullName": "PINKHOUSE　たまプラーザ東急店"
   },
-  "0552335818": {
+  "kofu": {
+    "faxNumber": "0552335818",
     "shortName": "甲府岡島店",
     "fullName": "PINKHOUSE　甲府岡島店店"
   },
-  "0262236004": {
+  "nagano": {
+    "faxNumber": "0262236004",
     "shortName": "長野路面店",
     "fullName": "PINKHOUSE　長野路面店"
   },
-  "0764225215": {
+  "toyama": {
+    "faxNumber": "0764225215",
     "shortName": "富山路面店",
     "fullName": "PINKHOUSE　富山路面店"
   },
-  "0766259037": {
+  "takaoka": {
+    "faxNumber": "0766259037",
     "shortName": "高岡路面店",
     "fullName": "PINKHOUSE　高岡路面店"
   },
-  "0762135110": {
+  "kanazawa": {
+    "faxNumber": "0762135110",
     "shortName": "金沢エムザ店",
     "fullName": "PINKHOUSE　金沢エムザ店"
   },
-  "0564573807": {
+  "okazaki": {
+    "faxNumber": "0564573807",
     "shortName": "岡崎路面店",
     "fullName": "PINKHOUSE　岡崎路面店"
   },
-  "0522128255": {
+  "nagoya_matsuzakaya": {
+    "faxNumber": "0522128255",
     "shortName": "名古松松坂店",
     "fullName": "PINKHOUSE　名古屋松坂屋店"
   },
-  "0525889510": {
+  "meitetsu": {
+    "faxNumber": "0525889510",
     "shortName": "名鉄百貨店",
     "fullName": "PINKHOUSE　名鉄百貨店"
   },
-  "0532576055": {
+  "toyohashi": {
+    "faxNumber": "0532576055",
     "shortName": "豊橋路面店",
     "fullName": "PINKHOUSE　豊橋路面店"
   },
-  "0775613664": {
+  "kusatsu": {
+    "faxNumber": "0775613664",
     "shortName": "草津近鉄店",
     "fullName": "PINKHOUSE　草津近鉄店"
   },
-  "0663452364": {
+  "hanshin": {
+    "faxNumber": "0663452364",
     "shortName": "阪神百貨店",
     "fullName": "PINKHOUSE　阪神百貨店"
   },
-  "0722245928": {
+  "sakai": {
+    "faxNumber": "0722245928",
     "shortName": "堺高島屋店",
     "fullName": "PINKHOUSE　堺高島屋店"
   },
-  "0785997574": {
+  "kobe": {
+    "faxNumber": "0785997574",
     "shortName": "神戸大丸店",
     "fullName": "PINKHOUSE　神戸大丸店"
   },
-  "0792849701": {
+  "himeji": {
+    "faxNumber": "0792849701",
     "shortName": "姫路山陽店",
     "fullName": "PINKHOUSE　姫路山陽百貨店"
   },
-  "0859221231": {
+  "yonago": {
+    "faxNumber": "0859221231",
     "shortName": "米子ＭＡＩ店",
     "fullName": "PINKHOUSE　米子ＭＡＩ店"
   },
-  "0825458100": {
+  "hiroshima": {
+    "faxNumber": "0825458100",
     "shortName": "広島三越店",
     "fullName": "PINKHOUSE　広島三越店"
   },
-  "0878255331": {
+  "takamatsu": {
+    "faxNumber": "0878255331",
     "shortName": "高松路面店",
     "fullName": "PINKHOUSE　高松路面店"
   },
-  "0899336568": {
+  "matsuyama": {
+    "faxNumber": "0899336568",
     "shortName": "松山いよてつ",
     "fullName": "PINKHOUSE　松山いよてつ高島屋店"
   },
-  "0922632723": {
+  "hakata": {
+    "faxNumber": "0922632723",
     "shortName": "博多店",
     "fullName": "PINKHOUSE　博多キャナルシティ店"
   },
-  "0939671568": {
+  "kokura": {
+    "faxNumber": "0939671568",
     "shortName": "小倉井筒店",
     "fullName": "PINKHOUSE　小倉井筒屋店"
   },
-  "0963222013": {
+  "kumamoto": {
+    "faxNumber": "0963222013",
     "shortName": "熊本鶴屋店",
     "fullName": "PINKHOUSE　熊本鶴屋本館店"
   },
-  "0975378556": {
+  "oita": {
+    "faxNumber": "0975378556",
     "shortName": "大分トキは店",
     "fullName": "PINKHOUSE　大分トキハ店"
   },
-  "0985323029": {
+  "miyazaki": {
+    "faxNumber": "0985323029",
     "shortName": "宮崎山形屋店",
     "fullName": "PINKHOUSE　宮崎山形屋店"
   },
-  "0992268728": {
+  "kagoshima": {
+    "faxNumber": "0992268728",
     "shortName": "鹿児島山形屋店",
     "fullName": "PINKHOUSE　鹿児島山形屋店"
   },
-  "0989306260": {
+  "okinawa_plazahouse": {
+    "faxNumber": "0989306260",
     "shortName": "沖縄プラズハウス店",
     "fullName": "PINKHOUSE　沖縄プラズハウス店"
   },
-  "0988627718": {
+  "okinawa_ryubo": {
+    "faxNumber": "0988627718",
     "shortName": "沖縄リウボウ店",
     "fullName": "PINKHOUSE　沖縄リウボウ店"
   },
-  "0368805820": {
+  "taobao": {
+    "faxNumber": "0368805820",
     "shortName": "タオバオ",
     "fullName": "PINKHOUSE　タオバオ店"
   }
