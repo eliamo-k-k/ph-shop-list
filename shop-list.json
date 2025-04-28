@@ -64,6 +64,11 @@
     "shortName": "水戸京成百貨店",
     "fullName": "PINKHOUSE　水戸京成百貨店"
   },
+  "toyama": {
+    "faxNumber": "0767225215",
+    "shortName": "富山店",
+    "fullName": "富山PINKHOUSE"
+  },
   "kobe": {
     "faxNumber": "0785997574",
     "shortName": "神戸大丸店",
@@ -147,7 +152,7 @@
   "hakata": {
     "faxNumber": "0922632723",
     "shortName": "博多店",
-    "fullName": "PINKHOUSE　博多キャナルシティ店"
+    "fullName": "PINKHOUSE　博多大丸店"
   },
   "meitetsu": {
     "faxNumber": "0525889510",
